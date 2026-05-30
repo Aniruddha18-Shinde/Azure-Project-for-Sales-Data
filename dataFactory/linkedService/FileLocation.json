@@ -1,0 +1,17 @@
+{
+	"name": "FileLocation",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Users\\anish\\Desktop\\Azure Project Sales",
+			"userId": "ani.shinde1991@gmail.com",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiIzMTRjNzAxNy05NzI0LTQ2NTYtYTMxYi0zOTU4NjkzNzU1Y2YiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "OnPremtoAzureIR",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
