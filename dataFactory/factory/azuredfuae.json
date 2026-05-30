@@ -1,0 +1,15 @@
+{
+	"name": "azuredfuae",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "uaenorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1270f0c4-40f6-47d2-9c82-09faa981c2ee",
+		"tenantId": "00e7261f-8f4c-43f4-b74a-81088cf2b063"
+	}
+}
