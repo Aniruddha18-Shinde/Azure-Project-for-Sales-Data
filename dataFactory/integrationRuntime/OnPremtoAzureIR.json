@@ -1,0 +1,6 @@
+{
+	"name": "OnPremtoAzureIR",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
